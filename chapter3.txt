@@ -1,1 +1,1 @@
-It was the spring of hope, it was the winter of despair.
+It was the spring of Visual Studio Code, it was the winter of Atom.
